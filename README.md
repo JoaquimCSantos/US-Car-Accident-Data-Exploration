@@ -17,24 +17,19 @@ I choose this dataset, examined it and came up with business question related to
 
 The business questions were:
 1.Where do most accidents happen?
-
--Where the accidents happen countrywide? 
--Do some regions have more accidents than other?
+  Where the accidents happen countrywide? Do some regions have more accidents than other?
 
 2.What are the surroundings of the accidents?
-
--Do the accidents take place in juntions? 
--Proximity to traffic objects (surroundings)
+  Do the accidents take place in juntions? Proximity to traffic objects (surroundings)
 
 3.When do most accidents happen?
-
--Is there a specific time of the day where there are more accidents reported? Hours with the most traffic(the beginning of the day and the end of the day)?
--How many accidents do we have per month? What about per year?
+  Is there a specific time of the day where there are more accidents reported? Hours with the most traffic(the beginning of the day and the end of the day)?
+  How many accidents do we have per month? What about per year?
 
 4.What relates to accident severity?
--Is it related to where the accident happens?
--Is it related to the weather conditions?
--What variables correlate the most with a severity of an accident
+  Is it related to where the accident happens?
+  Is it related to the weather conditions?
+  What variables correlate the most with a severity of an accident
 
 
 ## <a id="installations"/> Installations
