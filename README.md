@@ -62,5 +62,5 @@ Not included in the repository, the car accident dataset:
 
 
 ## <a id="acknowledgements"/> Licenses and acknowledgements
-All the credit for the data goes to [Kaggle](https://www.kaggle.com) and [sobhanmoosavi] (https://www.kaggle.com/sobhanmoosavi), who uploaded the data.
+All the credit for the data goes to [Kaggle](https://www.kaggle.com) and [sobhanmoosavi](https://www.kaggle.com/sobhanmoosavi), who uploaded the data.
 You can find the Licensing for the data and other descriptive information at the Kaggle.
