@@ -44,17 +44,18 @@ This project used the following software:
 - seaborn
 
 ##  <a id="overview"/> File Overview
+
 In these repository, there are 2 files:
 - How to avoid car accidents.ipynb: Jupyter Notebook with the project code
 - map_us.png: map of the US
 
+Not included in the repository, the car accident dataset: 
+- US_Accidents/US_Accidents_June20.csv - US Accidents (3.5 million records): A Countrywide Traffic Accident Dataset (2016 - 2020), retrieved from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents).
+
+
 ## <a id="results"/> Key Results 
 
 The main results are presented in this [Medium post](https://medium.com/@joaquimpedrosantos/how-to-prevent-car-accidents-e529719b1c07).
-
-
-Not included in the repository, the car accident dataset: 
-- US_Accidents/US_Accidents_June20.csv - US Accidents (3.5 million records): A Countrywide Traffic Accident Dataset (2016 - 2020), retrieved from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents).
 
 
 ## <a id="acknowledgements"/> Licenses and acknowledgements
