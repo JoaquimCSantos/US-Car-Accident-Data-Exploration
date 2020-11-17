@@ -2,7 +2,7 @@
 ## How to avoid car accidents: A study of US accidents from 2016 to 2020
 
 In this project, I analyze the US A Countrywide Traffic Accident Dataset (2016 - 2020) from [kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents).
-It relates the number of accidents with the time, the area and the surroundings of where the accidents happen.. It also includes a study on the relation of the many variables in the dataset to the accident severity. 
+It relates the number of accidents with the time, the area and the surroundings of where the accidents happen. It also includes a study on the relation of the many variables in the dataset to the accident severity.
 
 ## Table of Contents
 1. [Project Motivation](#motivation)
