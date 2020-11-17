@@ -53,7 +53,7 @@ Not included in the repository, the car accident dataset:
 - US_Accidents/US_Accidents_June20.csv - US Accidents (3.5 million records): A Countrywide Traffic Accident Dataset (2016 - 2020), retrieved from [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents).
 
 
-## <a id="results"/> Key Results 
+## <a id="results"/> Results 
 
 The main results are presented in this [Medium post](https://medium.com/@joaquimpedrosantos/how-to-prevent-car-accidents-e529719b1c07).
 
