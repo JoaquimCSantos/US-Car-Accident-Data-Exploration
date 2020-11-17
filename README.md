@@ -16,6 +16,7 @@ The motivation behind this project was to develop skills related to communicatin
 I choose this dataset, examined it and came up with business question related to car accidents. Gained business and data understanding, prepared the data, performed the data anlyses and presented the results. Finally, shared those same results in this [post](https://medium.com/@joaquimpedrosantos/how-to-prevent-car-accidents-e529719b1c07). 
 
 The business questions were:
+
 1.Where do most accidents happen?
   Where the accidents happen countrywide? Do some regions have more accidents than other?
 
